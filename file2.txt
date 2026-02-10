@@ -1,0 +1,4 @@
+Welcome to Git practice.
+This is file2.txt.
+You can make changes here and test stashing.
+Remember: frequent commits are good!
