@@ -6,4 +6,6 @@ Remember: frequent commits are good!
 Hi,
 
 After downloading from github, we are pushing code with changes.
-Checking second time.
+Checking second time - GitDemo
+
+Checking from gitFolder.
