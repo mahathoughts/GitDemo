@@ -1,3 +1,8 @@
 Hello Git!
 This is file1.txt.
 We will use it to practice Git commands like add, commit, and stash.
+
+
+Hi,
+
+After downloading from github, we are pushing code with changes.
