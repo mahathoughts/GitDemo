@@ -10,4 +10,6 @@ Changed second time - GitDemo
 
 Checking from gitFolder.
 
-in develop
+in develop from GitDemo
+
+in develop from gitFolder
